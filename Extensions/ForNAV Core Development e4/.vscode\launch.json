@@ -5,7 +5,9 @@
       "type": "al",
       "request": "launch",
       "name": "Publish",
-      "tenant": "bullzip.onmicrosoft.com"
+      "server": "https://businesscentral.dynamics.com:7049",
+      "serverInstance": "MS",
+      "authentication": "UserPassword"
     }
   ]
 }
